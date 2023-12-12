@@ -1,4 +1,5 @@
 MAS DSE 200: Homework 1 - Python, NumPy, and Pillow
+
 Tasks:
 Introduction to Python and NumPy.
 
